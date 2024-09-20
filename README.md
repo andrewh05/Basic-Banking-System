@@ -22,10 +22,32 @@ This is a simple console-based banking system implemented in Java. It allows use
 Copy code
 `java BasicBankingSystem`
 
-Use the following menu options to interact with the banking system:
-```bash
-1. Deposit: Enter an amount to add to your balance.
-2. Withdraw: Enter an amount to withdraw from your balance, if sufficient.
-3. Check Balance: View your current balance.
-4. Exit: Exit the banking system.
+## Use the following menu options to interact with the banking system:
+1. `Deposit`: Enter an amount to add to your balance.
+2. `Withdraw`: Enter an amount to withdraw from your balance, if sufficient.
+3. `Check Balance`: View your current balance.
+4. `Exit`: Exit the banking system.
 
+## Example Interaction
+
+Banking System
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Choose an option: 1
+Enter amount to deposit: 100
+Amount deposited successfully!
+
+Banking System
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Choose an option: 3
+Current balance: 100.0
+
+
+## Notes
+This program is designed to simulate basic banking operations. It does not persist data beyond the current session.
+Future enhancements can include adding persistent storage (e.g., saving balance information to a file or database).
