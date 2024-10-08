@@ -4,7 +4,7 @@ This is a simple console-based banking system implemented in Java. It allows use
 
 ## Features
 
-- **Deposit Money**: Users can deposit a specified amount into their balance.
+- **Deposit Money**: Users can deposit a specified amount into their balance. 
 - **Withdraw Money**: Users can withdraw money from their balance, provided they have sufficient funds.
 - **Check Balance**: Users can view their current balance.
 - **Exit the System**: Users can exit the banking system.
